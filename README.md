@@ -84,7 +84,7 @@ Git & GitHub for version control
 🚀 How to Run
 
 Clone the repository
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
+git clone https://github.com/aman-1111/E-commerce-Sales-Exploratory-Data-Analysis.git
 cd ecommerce-sales-analysis
 
 Install dependencies
